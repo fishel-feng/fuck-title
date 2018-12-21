@@ -1,13 +1,11 @@
 {
   "name": "fuck-title",
   "version": "0.1.0",
-  "description": "",
+  "description": "a cli to generate title like '驳 《xxx》'",
   "bin": "./bin/fuck.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [],
-  "author": "",
+  "repository": "https://github.com/fx109138/fuck-title",
+  "author": "fx109138",
   "license": "MIT",
   "dependencies": {
     "commander": "^2.19.0"
